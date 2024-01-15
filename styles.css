@@ -494,7 +494,7 @@
     justify-content: center;
     position: relative;
     margin-top: 50px;
-    /* andere Stile... */
+
 }
 
 .varient {
@@ -648,7 +648,7 @@
 
 
 .image-container img {
-    width: 70%; /* Das Bild wird auf 100% der Bildcontainer-Breite gesetzt */
+    width: 70%; 
     height: auto;
     display: block;
 }
@@ -713,9 +713,9 @@
     /* left: calc(45%-50px); Position rechts neben dem Bild + 50px Abstand */
     width: 350px; /* Breite des Rahmens */
     height: calc(100% - 20px); /* Höhe des Rahmens */
-    border: 4px solid rgba(72, 207, 241, 0.261); /* Äußerer Rahmen in Rot */
-    box-sizing: border-box; /* Innenabstand in der Breite einbeziehen */
-    z-index: 1; /* Über dem Text, unter dem Bild */
+    border: 4px solid rgba(24, 102, 62, 0.261); 
+    box-sizing: border-box; 
+    z-index: 1; 
 }
 
 
@@ -758,7 +758,7 @@
     /* left: calc(45%-50px); Position rechts neben dem Bild + 50px Abstand */
     width: 250px; /* Breite des Rahmens */
     height: 100%; /* Höhe des Rahmens */
-    border: 4px solid rgba(72, 207, 241, 0.261); /* Äußerer Rahmen in Rot */
+    border: 4px solid rgba(24, 102, 62, 0.261); /* Äußerer Rahmen in Rot */
     box-sizing: border-box; /* Innenabstand in der Breite einbeziehen */
     z-index: 1; /* Über dem Text, unter dem Bild */
 }
@@ -857,7 +857,7 @@
         /* left: calc(45%-50px); Position rechts neben dem Bild + 50px Abstand */
         width: 250px; /* Breite des Rahmens */
         height: calc(100% - 20px); /* Höhe des Rahmens */
-        border: 4px solid rgba(72, 207, 241, 0.261); /* Äußerer Rahmen in Rot */
+        border: 4px solid rgba(24, 102, 62, 0.261); /* Äußerer Rahmen in Rot */
         box-sizing: border-box; /* Innenabstand in der Breite einbeziehen */
         z-index: 1; /* Über dem Text, unter dem Bild */
     }
@@ -957,7 +957,7 @@
         /* left: calc(45%-50px); Position rechts neben dem Bild + 50px Abstand */
         width: 150px; /* Breite des Rahmens */
         height: calc(100% - 10px); /* Höhe des Rahmens */
-        border: 4px solid rgba(72, 207, 241, 0.261); /* Äußerer Rahmen in Rot */
+        border: 4px solid rgba(24, 102, 62, 0.261); /* Äußerer Rahmen in Rot */
         box-sizing: border-box; /* Innenabstand in der Breite einbeziehen */
         z-index: 1; /* Über dem Text, unter dem Bild */
         margin-left: 2.5%;
@@ -1056,7 +1056,7 @@
       /* left: calc(45%-50px); Position rechts neben dem Bild + 50px Abstand */
       width: 300px; /* Breite des Rahmens */
       height: 100%; /* Höhe des Rahmens */
-      border: 4px solid rgba(72, 207, 241, 0.261); /* Äußerer Rahmen in Rot */
+      border: 4px solid rgba(24, 102, 62, 0.261); /* Äußerer Rahmen in Rot */
       box-sizing: border-box; /* Innenabstand in der Breite einbeziehen */
       z-index: 1; /* Über dem Text, unter dem Bild */
       margin-left: 2.5%;
