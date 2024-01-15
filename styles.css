@@ -956,7 +956,7 @@
         top: 10px; /* Anpassung der Höhe über dem Bild */
         /* left: calc(45%-50px); Position rechts neben dem Bild + 50px Abstand */
         width: 150px; /* Breite des Rahmens */
-        height: calc(100% - 40px); /* Höhe des Rahmens */
+        height: calc(100% - 10px); /* Höhe des Rahmens */
         border: 4px solid rgba(24, 102, 62, 0.261); /* Äußerer Rahmen in Rot */
         box-sizing: border-box; /* Innenabstand in der Breite einbeziehen */
         z-index: 1; /* Über dem Text, unter dem Bild */
